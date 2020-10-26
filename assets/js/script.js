@@ -65,4 +65,7 @@ Paciente.prototype.setNombrePaciente = function (nombre) {
 
     paciente1.setNombrePaciente('chris');
     console.log(paciente1.getNombrePaciente());
-    
+
+
+
+    }
